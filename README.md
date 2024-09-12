@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="www.linkedin.com/in/hitesh1403" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="www.linkedin.com/in/hitesh1403" title="LinkedIn Profile"><img width="22" src="resource/linkedin.svg"> LinkedIn</a></code>
  
 </h5>
 <br>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="GIF" src="images/code.gif" width="480" height="320" />
+  <img align="center" alt="GIF" src="resource/w.gif" width="480" height="320" />
 </p>
 
 <hr>
