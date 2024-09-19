@@ -12,7 +12,7 @@
  
 </h5>
 <br>
-<p align="center">
+<p align="left">
   Hi, I'm Hitesh 
   <br>
   <br>
@@ -22,14 +22,14 @@
   <br>
   📫 How to reach me: <a href="mailto: 21pt21@psgtech.ac.in">21pt21@psgtech.ac.in</a>
 </p>
-
+<br>
 <p align="center">
   <img align="center" alt="GIF" src="resource/w.gif" width="480" height="320" />
 </p>
 
 <hr>
 
-<h2 align="center"> Stats </h2>
+<!--<h2 align="center"> Stats </h2>-->
 <br>
 <p align=center>
   <div align=center>
